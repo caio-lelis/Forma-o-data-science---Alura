@@ -9,3 +9,6 @@ Boxplot
 O Boxplot, também conhecido como “diagrama de caixa”, é uma representação visual que apresenta a distribuição de um conjunto de dados por meio de uma série de estatísticas descritivas: quartis, mediana, mínimo e máximo.
 
 Este tipo de gráfico auxilia na visualização da dispersão e centralidade dos dados, identificando assimetrias, outliers e variações nos dados.
+
+
+https://www.alura.com.br/artigos/tipo-de-visualizacao-de-dados
